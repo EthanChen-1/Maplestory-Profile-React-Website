@@ -1,0 +1,14 @@
+form{
+    display: flex;
+    flex-direction:row;
+    justify-content: space-between;
+    align-items: center;
+    margin: 1.5em 0em;
+    background-color: #a09797;
+    padding: 12px;
+    border-radius: .5em;
+}
+
+input {
+    margin: .25em .25em;
+}
